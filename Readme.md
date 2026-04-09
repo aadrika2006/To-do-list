@@ -63,7 +63,6 @@ JavaScript makes the app interactive by handling:
 ---
 
 ## 📂 Project Structure
-````md
 
 ```bash
 todo-list-web/
@@ -77,9 +76,7 @@ todo-list-web/
 ---
 
 
----
-
-## 🔥 Common Mistakes (you probably did one)
+### 🔥 Common Mistakes (you probably did one)
 
 - ❌ Missing closing ```
 - ❌ Extra ``` somewhere
@@ -88,7 +85,7 @@ todo-list-web/
 
 ---
 
-## 🧠 Pro Tip (GitHub Debug Trick)
+### 🧠 Pro Tip (GitHub Debug Trick)
 
 If formatting breaks:
 1. Go to **Edit README**
@@ -97,7 +94,7 @@ If formatting breaks:
 
 ---
 
-## 💬 Simple Summary
+### 💬 Simple Summary
 
 | Problem | Fix |
 |--------|-----|
@@ -107,7 +104,7 @@ If formatting breaks:
 
 ---
 
-## 💡 How the App Works
+### 💡 How the App Works
 
 1. The user types a task into the input field.
 2. The task can be added by:
@@ -121,7 +118,7 @@ This makes task management simple, fast, and interactive.
 
 ---
 
-##🎯 Learning Objectives
+### 🎯 Learning Objectives
 
 This project is ideal for beginners who want to practice:
 
@@ -133,7 +130,7 @@ This project is ideal for beginners who want to practice:
 
 ---
 
-## 📌 Use Cases
+### 📌 Use Cases
 
 This app can be used for:
 
@@ -145,7 +142,7 @@ Building a beginner portfolio project
 
 ---
 
-## 🔮 Future Improvements
+### 🔮 Future Improvements
 
 This project can be enhanced further by adding:
 
@@ -161,7 +158,7 @@ These improvements can make the app more powerful and practical.
 
 ---
 
-## 🤝 Contribution
+### 🤝 Contribution
 
 Contributions are welcome.
 
@@ -176,7 +173,7 @@ Open a Pull Request
 
 ---
 
-## 👩‍💻 Author
+### 👩‍💻 Author
 
 Aadrika
 
@@ -184,6 +181,6 @@ GitHub: aadrika2006
 
 ---
 
-## 🌟 Support
+### 🌟 Support
 
 If you like this project, consider giving it a star on GitHub. It helps support the project and motivates further development.
