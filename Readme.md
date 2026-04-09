@@ -73,26 +73,6 @@ todo-list-web/
 ├── screenshot.png   # Screenshot of the project interface
 └── README.md        # Project documentation
 
----
-
-
-### 🔥 Common Mistakes (you probably did one)
-
-- ❌ Missing closing ```
-- ❌ Extra ``` somewhere
-- ❌ Mixing ```bash and ``` incorrectly
-- ❌ Writing ``` without newline
-
----
-
-### 🧠 Pro Tip (GitHub Debug Trick)
-
-If formatting breaks:
-1. Go to **Edit README**
-2. Click **Preview tab**
-3. Scroll slowly → you’ll see where formatting breaks
-
----
 
 ### 💬 Simple Summary
 
