@@ -63,6 +63,7 @@ JavaScript makes the app interactive by handling:
 ---
 
 ## 📂 Project Structure
+````md
 
 ```bash
 todo-list-web/
@@ -75,23 +76,34 @@ todo-list-web/
 
 ---
 
-##⚙️ How to Run the Project
 
-## Follow these steps to run the project on your local machine:
+---
 
-Step 1: Clone the repository
-git clone https://github.com/aadrika2006/todo-list-web.git
-Step 2: Open the project folder
-cd todo-list-web
-Step 3: Run the application
+## 🔥 Common Mistakes (you probably did one)
 
-Open the index.html file in your browser.
+- ❌ Missing closing ```
+- ❌ Extra ``` somewhere
+- ❌ Mixing ```bash and ``` incorrectly
+- ❌ Writing ``` without newline
 
-## You can do this by:
+---
 
-Double-clicking the index.html file
-Or right-clicking and choosing Open with Browser
-Or using Live Server in VS Code for a better development experience
+## 🧠 Pro Tip (GitHub Debug Trick)
+
+If formatting breaks:
+1. Go to **Edit README**
+2. Click **Preview tab**
+3. Scroll slowly → you’ll see where formatting breaks
+
+---
+
+## 💬 Simple Summary
+
+| Problem | Fix |
+|--------|-----|
+| Only top code looks good | Missing closing ``` |
+| Rest not formatted | Markdown stuck in code block |
+| Solution | Close code block properly |
 
 ---
 
